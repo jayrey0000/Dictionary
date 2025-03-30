@@ -1,7 +1,11 @@
 COMPUTER FUNDAMENTALS AND PROGRAMMING 
 
-ACTIVITY LABORATORY 5
+SEMI-FINALS
 
-GDRIVE: https://drive.google.com/file/d/1b6WFd8TRwQqvTvOSJ90prCh5JQ_G3lVM/view?usp=drivesdk
+ACTIVITY LABORATORY 1
 
-GITHUB: https://github.com/jayrey0000/Dictionary/blob/main/ACTLAB5.py
+YOUTUBE LINK: 
+https://youtube.com/shorts/tpD-yw2viqY?si=AHrbutQuWwgZyFim
+
+GITHUB LINK: 
+https://github.com/jayrey0000/Dictionary/blob/main/Dictionary.cxx
